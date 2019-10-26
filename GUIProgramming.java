@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 /**
  *
- * @author init 5
+ * @author Farid.Faisal
  */
 public class GUIProgramming extends JFrame{
 //    Buttons of calculator
